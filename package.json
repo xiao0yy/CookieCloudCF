@@ -3,9 +3,9 @@
     "hono": "^4.12.9"
   },
   "devDependencies": {
-    "wrangler": "^4.79.0",
+    "wrangler": "^4.114.0",
     "vitest": "^4.1.9",
-    "@cloudflare/vitest-pool-workers": "^0.16.20",
+    "@cloudflare/vitest-pool-workers": "^0.18.8",
     "crypto-js": "^4.2.0"
   },
   "scripts": {
